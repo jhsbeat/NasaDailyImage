@@ -2,6 +2,7 @@ package com.headfirstlabs.nasadailyimage;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.List;
 
 import android.app.ProgressDialog;
 import android.app.WallpaperManager;
@@ -28,6 +29,7 @@ public class NasaDailyImage extends ActionBarActivity {
 	IotdHandler iotdHandler;
 	ProgressDialog dialog;
 	Bitmap image;
+	int randomIndex = 0;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -134,12 +136,13 @@ public class NasaDailyImage extends ActionBarActivity {
 				iotdHandler = new IotdHandler(); 
 			}
 			iotdHandler.processFeed();
-			image = iotdHandler.getImageAsBitmap();
+			randomIndex = (int)(Math.random() * iotdHandler.getItemSize());
+			image = iotdHandler.getImageAsBitmap(randomIndex);
 			handler.post(new Runnable(){
 
 				@Override
 				public void run() {
-					resetDisplay(iotdHandler.getTitle(), iotdHandler.getDate(), iotdHandler.getImage(), iotdHandler.getDescription().toString());
+					resetDisplayRandom(iotdHandler.getTitleList(), iotdHandler.getDateList(), iotdHandler.getDescriptionList());
 					dialog.dismiss();
 				}
 				
@@ -150,7 +153,11 @@ public class NasaDailyImage extends ActionBarActivity {
 		
 	}
 	
-	private void resetDisplay(String title, String date, String imageUrl, String description) {
+	private void resetDisplayRandom(List<StringBuffer> titleList, List<StringBuffer> dateList, List<StringBuffer> descriptionList) {
+		resetDisplay(titleList.get(randomIndex).toString(), dateList.get(randomIndex).toString(), image, descriptionList.get(randomIndex).toString());
+	}
+	
+	private void resetDisplay(String title, String date, Bitmap image, String description) {
 
 		TextView titleView = (TextView)findViewById(R.id.imageTitle);
 		titleView.setText(title);
@@ -160,16 +167,16 @@ public class NasaDailyImage extends ActionBarActivity {
 
 		
 		ImageView imageView = (ImageView)findViewById(R.id.imageDisplay);
-		InputStream is;
-		try {
-			is = getAssets().open(imageUrl);
-			Bitmap bitmap = BitmapFactory.decodeStream(is);
-			imageView.setImageBitmap(bitmap);
-			is.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//		InputStream is;
+//		try {
+//			is = getAssets().open(imageUrl);
+//			Bitmap bitmap = BitmapFactory.decodeStream(is);
+			imageView.setImageBitmap(image);
+//			is.close();
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 
 		TextView descriptionView = (TextView)findViewById(R.id.imageDescription);
 		descriptionView.setText(description);

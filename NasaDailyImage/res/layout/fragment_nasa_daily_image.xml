@@ -37,7 +37,6 @@
                     android:id="@+id/imageDate"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="22dp"
                     android:text="@string/test_image_date" />
 
                 <ImageView
