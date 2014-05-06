@@ -1,13 +1,10 @@
 package com.headfirstlabs.nasadailyimage;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.util.List;
 
 import android.app.ProgressDialog;
 import android.app.WallpaperManager;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v4.app.Fragment;
