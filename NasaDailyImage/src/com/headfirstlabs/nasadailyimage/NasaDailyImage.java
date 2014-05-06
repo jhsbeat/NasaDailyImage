@@ -74,7 +74,17 @@ public class NasaDailyImage extends ActionBarActivity {
 			public void run() {
 				WallpaperManager wallpaperManager = WallpaperManager.getInstance(NasaDailyImage.this);
 				try {
-					wallpaperManager.setBitmap(image);
+					if(image == null){
+						handler.post(new Runnable(){
+							@Override
+							public void run() {
+								Toast.makeText(NasaDailyImage.this, "Image is NULL!", Toast.LENGTH_SHORT).show();
+							}
+						});
+						return;
+					}else{
+						wallpaperManager.setBitmap(image);
+					}
 					handler.post(new Runnable(){
 						@Override
 						public void run() {
@@ -119,20 +129,12 @@ public class NasaDailyImage extends ActionBarActivity {
 		
 		dialog = ProgressDialog.show(this, "Loading", "Loading the image of the Day");
 		
-		
 		Thread th = new Thread() { public void run() {
 			if (iotdHandler == null) {
 				iotdHandler = new IotdHandler(); 
 			}
 			iotdHandler.processFeed();
-			InputStream is;
-			try {
-				is = getAssets().open(iotdHandler.getImage());
-				image = BitmapFactory.decodeStream(is);
-				is.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
+			image = iotdHandler.getImageAsBitmap();
 			handler.post(new Runnable(){
 
 				@Override

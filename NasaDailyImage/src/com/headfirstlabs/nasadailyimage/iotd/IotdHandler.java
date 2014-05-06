@@ -36,7 +36,8 @@ public class IotdHandler extends DefaultHandler {
 		SAXParserFactory factory =
 		SAXParserFactory.newInstance();
 		SAXParser parser = factory.newSAXParser(); XMLReader reader = parser.getXMLReader(); reader.setContentHandler(this);
-		InputStream inputStream = new URL(url).openStream(); reader.parse(new InputSource(inputStream));
+		InputStream inputStream = new URL(url).openStream(); 
+		reader.parse(new InputSource(inputStream));
 		} catch (Exception e) { }
 	}
 	
@@ -73,6 +74,7 @@ public class IotdHandler extends DefaultHandler {
 	}
 	
 	public String getImage() { return image; }
+	public Bitmap getImageAsBitmap() { return this.getBitmap(image); }
 	public String getTitle() { return title; }
 	public StringBuffer getDescription() { return description; } 
 	public String getDate() { return date; }
