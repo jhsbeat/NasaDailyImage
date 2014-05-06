@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>View of the Earth From the Freedom 7 Mercury Capsule</title>
+ <link>http://www.nasa.gov/topics/history/milestones/earthinspace.html</link>
+ <description>On May 5, 1961, astronaut Alan B. Shepard, Jr. had a view of Earth that no American had seen before, looking down on the home planet from the Freedom 7 Mercury capsule on his history-making suborbital flight. The 15 minute flight lifted him to an altitude of over 116 miles and a maximum speed of 5,134 miles per hour. During the flight, Shepard reported seeing the outlines of the west coast of Florida and the Gulf of Mexico, along with Florida&#039;s Lake Okeechobee.
+&gt; Pioneering Mercury Astronauts Launched America&#039;s Future
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/images/535509main_EarthObservations_full.jpg?itok=XZwF9GAb" length="531884" type="image/jpeg" ></enclosure>
+ <guid isPermaLink="false">http://www.nasa.gov/topics/history/milestones/earthinspace.html</guid>
+ <pubDate>Mon, 05 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Active Dune Field on Mars</title>
+ <link>http://www.nasa.gov/content/active-dune-field-on-mars</link>
+ <description>Nili Patera is one of the most active dune fields on Mars. As such, it is continuously monitored with the HiRISE (High Resolution Imaging Science Experiment) camera, a science instrument aboard NASA&#039;s Mars Reconnaissance Orbiter, with a new image acquired about every six weeks.
+By monitoring the sand dune changes, we can determine how winds vary seasonally and year-to-year. This observation is one of the more recent Nili images, acquired on March 1, 2014. Compared to an image acquired on Nov. 22, 2012, changes are obvious. The ripples on the dunes have moved, as well some of the dune boundaries, such as the one at upper left. New landslides on the central dune&#039;s lee face are apparent.
+Such changes, in just 16 months (and finer scale changes have been seen in just a couple of weeks), demonstrate the effectiveness of wind in modifying the Martian landscape.
+HiRISE is one of six instruments on NASA&#039;s Mars Reconnaissance Orbiter. The University of Arizona, Tucson, operates the orbiter&#039;s HiRISE camera, which was built by Ball Aerospace &amp; Technologies Corp., Boulder, Colo. NASA&#039;s Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the Mars Reconnaissance Orbiter Project for the NASA Science Mission Directorate, Washington.
+&gt; More information and image products
+Image Credit: NASA/JPL-Caltech/Univ. of Arizona
+	Caption: Nathan Bridges</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia18244.jpg?itok=kYIb7Ck8" length="786723" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/active-dune-field-on-mars</guid>
+ <pubDate>Fri, 02 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Early Tracking and Communication Facilities at Goddard Space Flight Center</title>
+ <link>http://www.nasa.gov/content/early-tracking-and-communication-facilities-at-goddard-space-flight-center</link>
+ <description>Named for American rocketry pioneer Dr. Robert H. Goddard, NASA&#039;s Goddard Space Flight Center was established on May 1, 1959, as NASA&#039;s first space flight complex.
+In the 1960s, when this image was taken, Goddard focused on the development of tracking and communication facilities and capabilities for both the scientific satellites and the manned space flight program. Goddard became the hub of the massive, international tracking and communications network that involved aircraft, supertankers converted into mobile communications units, and a wide diversity of ground stations. A duplicate mission control center was also built at Goddard in case the computers at the main control room at the Johnson Space Center in Houston, Texas failed for any reason.
+&gt; About Dr. Robert H. Goddard
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/341270main_control_full.jpg?itok=xa4U-0VW" length="177978" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/early-tracking-and-communication-facilities-at-goddard-space-flight-center</guid>
+ <pubDate>Thu, 01 May 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Volcanic Plume Over Southern Atlantic Ocean Revealed Through False-Color Imagery</title>
+ <link>http://www.nasa.gov/content/volcanic-plume-over-southern-atlantic-ocean-revealed-through-false-color-imagery</link>
+ <description>The South Sandwich Islands, in the far southern Atlantic Ocean, are often shrouded with thick cloud, making it difficult to view the region from space. Sometimes, however, the use of false-color imagery can be used to reveal events that would otherwise be obscured under cloud cover.
+The Moderate Resolution Imaging Spectroradiometer (MODIS) aboard NASA’s Aqua satellite flew over the South Sandwich Islands on April 19, 2014 and acquired this false-color image of the cloudy scene.
+This false-color image uses a combination of non-visible (middle infrared and infrared) and visible (red) light captured in bands 7, 2, and 1, respectively, to distinguish clouds from snow and ice. Here the ice-covered islands appear bright turquoise, the clouds light turquoise and the water in the ocean appears deep black. Because the volcanic plume is a moist mixture of gas and ash, it reflects all three forms of light relatively well, so it appears nearly white.
+In the north of this image, a thin plume of white rises from the volcano on Zavodovski island, the northernmost of the South Sandwich Islands and streams to the northeast. Further south, a wider white plume can be seen blowing across the Atlantic Ocean. This plume rises from the Mount Michael volcano, which is a young and frequently active stratovolcano located on Saunders Island, near the center of the South Sandwich Island chain.
+The white plume from Mount Michael forms a chain of swirling eddies as it blows to the northeast. To the south, similar eddies can be seen behind three other islands. These are known as Von Kármán vortices. These vortices can form nearly anywhere that fluid flow is disturbed by an object. Because the atmosphere behaves like a fluid, when streaming air hits a blunt object, such as a mountain peak, the wind is forced around the object. The disturbance in the flow of the wind propagates downstream in a double row of vortices that alternate their direction of rotation, much like the eddies seen behind a pier in a river as water rushes past.
+Image Credit: Jeff Schmaltz/MODIS Land Rapid Response Team, NASA GSFC</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/image04302014_250m.jpg?itok=f2PvR5-o" length="2316933" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/volcanic-plume-over-southern-atlantic-ocean-revealed-through-false-color-imagery</guid>
+ <pubDate>Wed, 30 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Me and My Shadow</title>
+ <link>http://www.nasa.gov/jpl/cassini/pia17162</link>
+ <description>Saturn&#039;s rings cast shadows on the planet, but the shadows appear to be inside out! The edge of Saturn&#039;s outermost A ring can be seen at the top left corner of the image.  Moving towards the bottom of the page, one can see the faint Cassini Division, the opaque B ring and the innermost C ring, which contains several ringlets that appear dark against Saturn in this geometry.  The bottom half of the image features the shadows of these rings in reverse order superposed against the disk of the planet: the C ring, the B ring, the Cassini Division and the inner half of the A ring.
+This view looks toward the unilluminated side of the rings from about 28 degrees below the ringplane. The image was taken with the Cassini spacecraft wide-angle camera on Dec. 2, 2013, using a spectral filter which preferentially admits wavelengths of near-infrared light centered at 752 nanometers.
+The view was acquired at a distance of approximately 750,000 miles (1.2 million kilometers) from Saturn and at a Sun-Saturn-spacecraft, or phase, angle of 57 degrees. Image scale is 45 miles (72 kilometers) per pixel.
+The Cassini-Huygens mission is a cooperative project of NASA, the European Space Agency and the Italian Space Agency. The Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the mission for NASA&#039;s Science Mission Directorate, Washington, D.C. The Cassini orbiter and its two onboard cameras were designed, developed and assembled at JPL. The imaging operations center is based at the Space Science Institute in Boulder, Colo.
+For more information about the Cassini-Huygens mission, visit http://www.nasa.gov/cassini and http://saturn.jpl.nasa.gov. The Cassini imaging team homepage is at http://ciclops.org.
+Image Credit: NASA/JPL-Caltech/Space Science Institute</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia17162_full.jpg?itok=QrLoecGU" length="218141" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/cassini/pia17162</guid>
+ <pubDate>Tue, 29 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Curiosity Mars Rover Beside Sandstone Target &#039;Windjana&#039;</title>
+ <link>http://www.nasa.gov/jpl/msl/pia18086b</link>
+ <description>This image from the Navigation Camera (Navcam) on NASA&#039;s Curiosity Mars rover shows a sandstone slab on which the rover team has selected a target, &quot;Windjana,&quot; for close-up examination and possible drilling.  The target is on the approximately 2-foot-wide (60-centimeter-wide) rock seen in the right half of this view. 
+The Navcam&#039;s left-eye camera took this image during the 609th Martian day, or sol, of Curiosity&#039;s work on Mars (April 23, 2014). The rover&#039;s name is written on the covering for a portion of the robotic arm, here seen stowed at the front of the vehicle.
+The sandstone target&#039;s informal name comes from Windjana Gorge in Western Australia.  If this target meets criteria set by engineers and scientists, it could become the mission&#039;s third drilled rock and the first that is not mudstone.
+The rock is within a waypoint location called &quot;the Kimberley,&quot; where sandstone outcrops with differing resistance to wind erosion result in a stair-step pattern of layers.  Windjana is within what the team calls the area&#039;s &quot;middle unit,&quot; because it is intermediate between rocks that form buttes in the area and lower-lying rocks that show a pattern of striations.
+NASA&#039;s Jet Propulsion Laboratory, a division of the California Institute of Technology, Pasadena, manages the Mars Science Laboratory Project for NASA&#039;s Science Mission Directorate, Washington. JPL designed and built the project&#039;s Curiosity rover and the rover&#039;s Navcam.
+&gt; Read more: NASA&#039;s Curiosity Mars Rover Inspects Site
+Image Credit: NASA/JPL-Caltech</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia18086_sol609-lncam_0.jpg?itok=DM2KT8SB" length="635293" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/msl/pia18086b</guid>
+ <pubDate>Mon, 28 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble&#039;s Messier 5</title>
+ <link>http://www.nasa.gov/content/hubbles-messier-5</link>
+ <description>&quot;Beautiful Nebula discovered between the Balance [Libra] &amp; the Serpent [Serpens] ...&quot; begins the description of the 5th entry in 18th century astronomer Charles Messier&#039;s famous catalog of nebulae and star clusters. Though it appeared to Messier to be fuzzy and round and without stars, Messier 5 (M5) is now known to be a globular star cluster, 100,000 stars or more, bound by gravity and packed into a region around 165 light-years in diameter. It lies some 25,000 light-years away. Roaming the halo of our galaxy, globular star clusters are ancient members of the Milky Way. M5 is one of the oldest globulars, its stars estimated to be nearly 13 billion years old. The beautiful star cluster is a popular target for Earthbound telescopes. Of course, deployed in low Earth orbit on April 25, 1990, the Hubble Space Telescope has also captured its own stunning close-up view that spans about 20 light-years near the central region of M5. Even close to its dense core at the left, the cluster&#039;s aging red and blue giant stars and rejuvenated blue stragglers stand out in yellow and blue hues in the sharp color image.
+Image Credit: NASA, Hubble Space Telescope, ESA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/m5hst2048.jpg?itok=rEa4P-D8" length="1815963" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/hubbles-messier-5</guid>
+ <pubDate>Fri, 25 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Space Telescope Reaches Orbit</title>
+ <link>http://www.nasa.gov/content/hubble-space-telescope-reaches-orbit</link>
+ <description>On April 24, 1990, the Hubble Space Telescope was launched aboard Space Shuttle Discovery on the STS-31 mission. The mission featured the deployment of Hubble, the first of NASA&#039;s Great Observatories to reach orbit. STS-31 was the tenth launch of the shuttle Discovery. On board were astronauts Charles F. Bolden (pilot, now NASA Administrator), Steven A. Hawley (mission specialist), Loren J. Shriver (commander), Bruce McCandless (mission specialist) and Kathryn D. Sullivan (mission specialist, now NOAA Administrator).
+In this April 25, 1990 photograph taken with a handheld Hasselblad camera, most of the giant Hubble Space Telescope can be seen as it is suspended in space by Discovery&#039;s Remote Manipulator System (RMS) following the deployment of part of its solar panels and antennae. This was among the first photos NASA released on April 30 from the five-day STS-31 mission.
+&gt; The Hubble Story
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/s31-76-026.jpg?itok=E_dAIyit" length="4288295" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/hubble-space-telescope-reaches-orbit</guid>
+ <pubDate>Thu, 24 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Earth Science Radar Imaging Mission Travels to Central and South America</title>
+ <link>http://www.nasa.gov/content/earth-science-radar-imaging-mission-travels-to-central-and-south-america</link>
+ <description>This photo of volcanoes in Guatemala was taken from NASA&#039;s C-20A aircraft during a four-week Earth science radar imaging mission deployment over Central and South America. The conical volcano in the center is &quot;Volcan de Agua.&quot; The two volcanoes behind it are, right to left, &quot;Volcan de Fuego&quot; and &quot;Acatenango.&quot; &quot;Volcan de Pacaya&quot; is in the foreground.
+The radar imaging mission got underway in early April when the C-20A departed its base in Palmdale, Calif., to collect data over targets in the Gulf Coast area of the southeastern United States. The aircraft, a modified Gulfstream III, is carrying NASA&#039;s Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) instrument in a specialized pod. Developed by NASA&#039;s Jet Propulsion Laboratory in Pasadena, Calif., UAVSAR measures ground deformation over large areas to a precision of 0.04 to 0.2 inches (0.1 to 0.5 centimeters).
+The mission schedule calls for the aircraft to make stops in 10 international and U.S. locations, including the Gulf Coast. Research during the deployment is covering a variety of topics, including volcanoes, glaciers, forest structure, levees, and subsidence. It is also providing vegetation data sets for satellite algorithm development. The volcanoes of Central and South America are of interest because of the hazard they pose to nearby population centers. A majority of the research will focus on gathering volcano deformation measurements, with many flight lines being repeats from previous deployments. Surface deformation often precedes other signs of renewed volcanic activity.
+&gt; Read more
+	&gt; Earth Right Now
+Image Credit: NASA/Stu Broce</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/dsc_0063_1_0.jpg?itok=AkRcJP2K" length="147174" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/earth-science-radar-imaging-mission-travels-to-central-and-south-america</guid>
+ <pubDate>Wed, 23 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Satellite View of the Americas on Earth Day</title>
+ <link>http://www.nasa.gov/content/satellite-view-of-the-americas-on-earth-day</link>
+ <description>Today, April 22, 2014 is Earth Day, and what better way to celebrate than taking a look at our home planet from space.
+NOAA&#039;s GOES-East satellite captured this stunning view of the Americas on Earth Day, April 22, 2014 at 11:45 UTC/7:45 a.m. EDT. The data from GOES-East was made into an image by the NASA/NOAA GOES Project at NASA&#039;s Goddard Space Flight Center in Greenbelt, Md.
+In North America, clouds associated with a cold front stretch from Montreal, Canada, south through the Tennessee Valley, and southwest to southern Texas bringing rain east of the front today. A low pressure area in the Pacific Northwest is expected to bring rainfall in Oregon, Washington, Idaho, stretching into the upper Midwest, according to NOAA&#039;s National Weather Service. That low is also expected to bring precipitation north into the provinces of British Columbia and Alberta, Canada. Another Pacific low is moving over southern Nevada and the National Weather Service expects rain from that system to fall in central California, Nevada, and northern Utah.
+Near the equator, GOES imagery shows a line of pop up thunderstorms. Those thunderstorms are associated with the Intertropical Convergence Zone (ITCZ). The ITCZ encircles the Earth near the equator.
+In South America, convective (rapidly rising air that condenses and forms clouds) thunderstorms pepper Colombia, Venezuela, Ecuador, Peru, Bolivia, Paraguay and northwestern and southeastern Brazil.
+GOES satellites provide the kind of continuous monitoring necessary for intensive data analysis. Geostationary describes an orbit in which a satellite is always in the same position with respect to the rotating Earth. This allows GOES to hover continuously over one position on Earth&#039;s surface, appearing stationary. As a result, GOES provide a constant vigil for the atmospheric &quot;triggers&quot; for severe weather conditions such as tornadoes, flash floods, hail storms and hurricanes.
+For more information about GOES satellites, visit: www.goes.noaa.gov/ or goes.gsfc.nasa.gov/</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13989104603_c57e9de5cf_o.jpg?itok=MV6Sv0T4" length="1324695" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/satellite-view-of-the-americas-on-earth-day</guid>
+ <pubDate>Tue, 22 Apr 2014 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>

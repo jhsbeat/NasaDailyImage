@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NasaDailyImage</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_image_title">View of the Earth From the Freedom 7 Mercury Capsule</string>
+    <string name="test_image_date">Mon, 05 May 2014 12:00:00 EDT</string>
+    <string name="test_image_description">On May 5, 1961, astronaut Alan B. Shepard, Jr. had a view of Earth that no American had seen before, looking down on the home planet from the Freedom 7 Mercury capsule on his history-making suborbital flight. The 15 minute flight lifted him to an altitude of over 116 miles and a maximum speed of 5,134 miles per hour. During the flight, Shepard reported seeing the outlines of the west coast of Florida and the Gulf of Mexico, along with Florida\'s Lake Okeechobee. Pioneering Mercury Astronauts Launched America\'s Future Image Credit: NASA</string>
+    <string name="image_description">Nasa Daily Image</string>
+    <string name="refresh">Refresh</string>
+    <string name="set_wallpaper">Set Wallpapaer</string>
+
+</resources>
